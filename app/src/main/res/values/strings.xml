@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TrailTracker</string>
+
+    <string name="generic_close">Close</string>
+    <string name="generic_start">Start</string>
+    <string name="generic_stop">Stop</string>
+
+    <string name="location_permission_rationale_dialog_title">Location Required</string>
+    <string name="location_permission_rationale_dialog_text">Precise location access is needed for this application to work. Please grant access, otherwise no functionality can be offered.</string>
+    <string name="location_permission_rationale_dialog_confirm_button_label">Grant Access</string>
+    <string name="location_permission_rationale_dialog_dismiss_button_label">Not Now</string>
+
+    <string name="system_location_enabling_request_dialog_title">Device Location</string>
+    <string name="system_location_enabling_request_dialog_text">Please ensure the system location setting is enabled.</string>
+
+    <string name="network_error_dialog_title">Network Error</string>
+    <string name="network_error_dialog_text">Please ensure you have Wi-Fi or mobile data enabled.</string>
+</resources>
